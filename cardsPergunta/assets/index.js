@@ -10,7 +10,7 @@ function mostrarPergunta(tipo){
     }
     
 
-document.getElementById("pergunta").textContent = "❓" + pergunta
+document.getElementById("pergunta").textContent =  pergunta
 // abre uma caixa de prompt para o usuario digitar
 
 
